@@ -1,6 +1,6 @@
 #本项目为斗鱼视频最高效的批量下载
 
-#视频教程在 https://www.bilibili.com/video/av54590029/
+视频教程在 https://www.bilibili.com/video/av54590029/
 
 #1. 需要的库
 需要安装python 3.x
